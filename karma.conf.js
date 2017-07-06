@@ -6,4 +6,5 @@ module.exports = {
     files:                   [ './browser.js' ],
     preprocessors: { '**/*.js': [ 'webpack' ] },
     webpackMiddleware: { stats: 'errors-only' },
+    electronOpts:               { show: false },
 }
