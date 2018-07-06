@@ -4,13 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.6.11",
-    "karma": "^1.7.0",
+    "electron": "^2.0.4",
+    "karma": "^2.0.4",
     "karma-electron-launcher": "^0.2.0",
     "karma-mocha": "^1.3.0",
     "karma-mocha-reporter": "^2.2.3",
-    "karma-webpack": "^2.0.3",
-    "mocha": "^3.4.2",
-    "webpack": "^3.0.0"
+    "karma-webpack": "^3.0.0",
+    "mocha": "^5.2.0",
+    "webpack": "^4.15.1"
   }
 }
